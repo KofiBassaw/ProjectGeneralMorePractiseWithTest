@@ -1,0 +1,6 @@
+framework module Pods_ProjectGeneralMorePractiseWithTestUITests {
+  umbrella header "Pods-ProjectGeneralMorePractiseWithTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

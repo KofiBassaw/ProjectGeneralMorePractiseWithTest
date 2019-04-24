@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.2)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Nuke (7.6.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FMDB
+  - Nuke
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Nuke: d0782693c570cb4f79e2a187859ef7f06f19365d
+
+PODFILE CHECKSUM: 8536930e5ac3c8b1e918310c7ca67b46f55be2a7
+
+COCOAPODS: 1.4.0
